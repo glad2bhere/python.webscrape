@@ -1,2 +1,2 @@
 # python.webscrape
-Simple Web Scrape Script in Python
+Simple web scrape script built to automate tedius tasks of downloading content from the internet on a daily basis
